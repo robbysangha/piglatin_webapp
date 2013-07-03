@@ -1,0 +1,22 @@
+html {
+	background: url('./back_drop.jpg');
+}
+
+h2, p {
+	font-family: fantasy;
+}
+
+h2 {
+	color: #202020;
+	font-size: 250%;
+}
+
+p {
+	color: #383838;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 15em;
+}
